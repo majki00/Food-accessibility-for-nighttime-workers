@@ -1,6 +1,6 @@
 # Revealing the geography of food (in)accessibility for nighttime workers in the Greater London Area
 
-Repository for all the additonal figures from our paper: Iliev M., Cheshire J. and S. Law (2026) "Revealing the geography of food (in)accessibility for nighttime workers in the Greater London Area" Urban Studies 
+Repository for all the additonal figures from our paper: Iliev, M., Cheshire, J. and Law, S. (2026). Revealing the geography of food (in)accessibility for nighttime workers in the Greater London Area. Urban Studies, 0(0).
 
 ## Dynamic accessibility to food retail outlets and spatio-temporal distribution of night workers in London (see all hours in "Additional figures")
 
@@ -12,4 +12,4 @@ Repository for all the additonal figures from our paper: Iliev M., Cheshire J. a
 
 ## Data story:
 
-[Data After Dark](https://dataafterdark.org/stories.html)
+[Data After Dark](https://dataafterdark.org/stories/locating-londons-night-time-food-deserts.html)
